@@ -1,0 +1,66 @@
+{
+  "name": "Kent Bostanları — Güz 2026 Rehberi",
+  "short_name": "Güz Rehberi",
+  "description": "Çankaya Belediyesi Kent Bostanları güz dönemi dikim takvimi, bakım rehberi, parsel araçları ve saha günlüğü",
+  "lang": "tr",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#157a38",
+  "categories": [
+    "education",
+    "productivity",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Bu dönem",
+      "short_name": "Bu dönem",
+      "url": "./index.html#simdi"
+    },
+    {
+      "name": "Sunum",
+      "short_name": "Sunum",
+      "url": "./index.html#sunum"
+    },
+    {
+      "name": "Araçlar",
+      "short_name": "Araçlar",
+      "url": "./index.html#araclar"
+    },
+    {
+      "name": "Soru-Cevap",
+      "short_name": "Soru sor",
+      "url": "./index.html#soru"
+    }
+  ]
+}
