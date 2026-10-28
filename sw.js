@@ -5,7 +5,7 @@
    CACHE_VERSION satırındaki sayıyı bir artırın. Eski cache otomatik
    silinir ve kullanıcıya "Yeni sürüm hazır" bildirimi gösterilir.      */
 
-const CACHE_VERSION = 'v19';
+const CACHE_VERSION = 'v20';
 const CACHE_NAME = `kb-guz2026-${CACHE_VERSION}`;
 
 const ASSETS = [
